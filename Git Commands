@@ -1,0 +1,1 @@
+git stash push -m "stash home.html only" -- Git_Learning/Home.html
